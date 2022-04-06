@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Hyzerr"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=Hi+I'm+Hyzer;I'm+From+Indonesian;Don't+bully+me" alt="Asu">
+  <a href="https://github.com/Fiin24"><img src="http://readme-typing-svg.herokuapp.com?color=ffc012&center=true&vCenter=true&multiline=false&lines=Hi+I'm+Hyzer;I'm+From+Indonesian;Don't+bully+me" alt="Asu">
 </p>
 
 <p align="center">
